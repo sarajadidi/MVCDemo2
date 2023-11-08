@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{DFF865FB-5FE4-4CD6-B53E-591B6C50A3BF}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCDemo2/appsettings.json">
+    <Files>
+      <File FileName="MVCDemo2/Program.cs" />
+      <File FileName="MVCDemo2/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="MVCDemo2" expanded="True" selected="True">
+            <Node name=".vs" expanded="True" />
+            <Node name="MVCDemo2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="MVCDemo2" expanded="True" selected="True">
+            <Node name=".vs" expanded="True" />
+            <Node name="MVCDemo2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVCDemo2 PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
